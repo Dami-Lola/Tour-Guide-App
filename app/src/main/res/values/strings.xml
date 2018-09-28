@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Imaginary City Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aboutcyprus">Cyprus is located in Western Asia, south of Turkey, west of Syria and Lebanon, northwest of Israel, north of Egypt, and southeast of Greece.\n\nFind below very popular beach sites you should visit.</string>
+    <string name="namecyprus">Cyprus</string>
+    <string name="aka">Also known for its beautiful ocean views</string>
+    <string name="paris">Paris</string>
+    <string name="parisaka">Popularly known as the city of love</string>
+    <string name="aboutparis">Formidable restaurants in Paris, from the legendary outfit serving grand classics in the Eiffel Tower to swinging sought-after joints where, in true Parisian style, the phone is never answered and the dining room is always full.</string>
+    <string name="great_libraries">Great libraries</string>
+    <string name="aboutlibrary">What comes to your mind when you hear the word ‘library’? The information it gives, right? While there are people who take libraries as a place to get all the information required, be it for school projects, for personal research or any work assignments. But for many others, it’s a heaven for them to sit and spent hours among books.</string>
+    <string name="water_parks">Water Parks</string>
+    <string name="aboutparks">Whether you want to enjoy a big splash or a relaxing float, these water-focused resorts and amusement parks offer ample facilities to keep you entertained.</string>
+    <string name="aquatica">Aquatica (Orlando, Florida)</string>
+    <string name="aquaventure">Aquaventure Waterpark (Dubai, UAE)</string>
+    <string name="area">Area 47 (Innsbruck, Austria)</string>
+    <string name="tropical">Tropical Islands (Krausnick, Germany)</string>
+    <string name="labeille">L\'Abeille mixes grand ingredients and plenty of vegetables;rabbit with Swiss chard and truffles.</string>
+    <string name="pierre">Pierre Gagnaire provides the stage for a panoply of dishes, from minuscule appetisers; a clam with diced veg – to a whirlwind of desserts.</string>
+    <string name="la">La Truffière produces excellent, modernised classical French cuisine. The setting is an ancient inn</string>
+    <string name="les">Les Papilles (\'the taste buds\') originated as wine store and delicatessen known for its delicious, hearty fare in an otherwise touristy area</string>
+    <string name="beinecke">Beinecke Rare Book and Manuscript Library at Yale University</string>
+    <string name="stadtbibliothek">Stadtbibliothek Stuttgart, Library in Stuttgart Germany</string>
+    <string name="thomas">Thomas Fisher Rare Book Library, Library in Toronto Canada</string>
+    <string name="james">James B. Hunt Jr. Library, Library in Raleigh North Carolina</string>
+    <string name="larnaca">Larnaca (Larnarka) is a port city on the south coast of Cyprus</string>
+    <string name="ayia">Ayia Napa is a Mediterranean resort town on the southeast coast of Cyprus</string>
+    <string name="limassol">Limassol is a city on the southern coast of Cyprus</string>
+    <string name="paphos">Paphos is a city on the southwest coast of the Mediterranean island of Cyprus</string>
+    <string name="library">Library</string>
+    <string name="ocean">Ocean</string>
+    <string name="park">Park</string>
+    <string name="restaurant">Restaurant</string>
+</resources>
